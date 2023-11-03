@@ -19,6 +19,18 @@ Run the followng command in the terminal to install the dependencies:
 python -m pip install 'fastapi[all]' 'pymongo[srv]' python-dotenv
 ```
 
+If you intend to run tests, you need to install `pytest`:
+
+```bash
+python -m pip install pytest
+```
+
+Then run this command:
+
+```bash
+python -m pytest
+```
+
 ## Testing the endpoints
 
 Run this command in the terminal:
