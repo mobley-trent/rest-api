@@ -1,6 +1,7 @@
 # REST-API with MongoDB and FastAPI
 
 This is a simple REST-API that supports CRUD operations. It is built using FastAPI and PyMongo.
+PyMongo is the official MongoDB driver for Python. It also helps if you have MongoDB Compass installed on your machine.
 
 ## Setup
 
